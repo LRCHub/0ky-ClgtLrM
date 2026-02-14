@@ -1,4 +1,4 @@
-# HO-KA-GO CLIMAX GIRLS – 夢咲きAfter school
+# 放課後クライマックスガールズ – 夢咲きAfter school
 
 > **歌詞登録ステータス：同期歌詞あり**
 
