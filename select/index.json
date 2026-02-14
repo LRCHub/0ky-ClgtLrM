@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夢咲きAfter school",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-02-14T13:19:07.051785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢咲きafter school",
+      "artist": "放課徜クライマックスガールズ",
+      "has_synced": true,
+      "path": "select/01_夢咲きafter_school_放課徜クライマックスガールズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢咲きAfter school",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": true,
+      "path": "select/02_夢咲きAfter_school_放課後クライマックスガールズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢咲きAfter school",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": true,
+      "path": "select/03_夢咲きAfter_school_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢咲きAfter school",
+      "artist": "HO-KA-GO CLIMAX GIRLS",
+      "has_synced": true,
+      "path": "select/04_夢咲きAfter_school_HO-KA-GO_CLIMAX_GIRLS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢咲きAfter school",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_夢咲きAfter_school_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
